@@ -5,19 +5,19 @@ const card = document.querySelector("div.card");
 
 const videos = [
   {
-    title: "Doações de alimentos",
+    title: "Alimentos",
     duration: "",
     thumb: "./images/alimentos.png",
     video_id: "GykTLqODQuU"
   },
   {
-    title: "Doações de água",
+    title: "Agua",
     duration: "",
     thumb: "./images/agua.png",
     video_id: "HN1UjzRSdBk"
   },
   {
-    title: "Doações de roupas",
+    title: "Roupas",
     duration: "",
     thumb: "./images/roupa.png",
     video_id: "rAzHvYnQ8DY"
@@ -25,11 +25,11 @@ const videos = [
   {
     title: "O que mais precisamos no momento",
     duration: "",
-    thumb: "./images/doação1.jpg",
+    thumb: "./images/doacao1.jpg",
     video_id: "ghTrp1x_1As"
   },
   {
-    title: "Pontos de Coletas proximos a você",
+    title: "Pontos de Coletas proximos a voce",
     duration: "",
     thumb: "./images/ponto.png",
     video_id: "GSqR2i-Pq6o"
